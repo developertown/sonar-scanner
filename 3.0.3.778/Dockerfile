@@ -20,7 +20,7 @@ COPY --from=dependencies /tmp/sonar-scanner /usr/local/sonar-scanner
 
 RUN \
   apk update && \
-  apk add nodejs && \
+  apk add nodejs yarn && \
   mkdir /project
 
 WORKDIR /project
