@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-- [`3.0.3.778-1`, `latest`, (*Dockerfile*)](https://github.com/developertown/sonar-scanner/blob/master/3.0.3.778/Dockerfile)
+- [`3.0.3.778-2`, `latest`, (*Dockerfile*)](https://github.com/developertown/sonar-scanner/blob/master/3.0.3.778/Dockerfile)
 
 # Containerized Sonar Scanner
 
